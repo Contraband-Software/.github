@@ -17,7 +17,7 @@ A team of three games programmers working in Unity and beyond.
 
 ## Live Projects
 
-- Custom game engine: [The Rock](https://github.com/Contraband-Software/Rock)
+- Cross-platform game engine: [The Rock](https://github.com/Contraband-Software/Rock)
 
 ### Unity Packages
 
