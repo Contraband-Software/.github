@@ -27,4 +27,4 @@ A team of three games programmers working in Unity and beyond.
 
 ## Education
 
-- [Unity 2D](https://github.com/Contraband-Software/Unity2D-Tutorial)
+- [Unity 2D Tutorials](https://github.com/Contraband-Software/Unity2D-Tutorial)
