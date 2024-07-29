@@ -1,4 +1,4 @@
-# We are Contraband fishware
+# We are Contraband Software
 
 A team of three games programmers working in Unity and beyond.
 
