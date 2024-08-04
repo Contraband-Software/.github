@@ -14,7 +14,7 @@ A team of three games programmers working in Unity and beyond.
 - Ludum Dare 52: [That Wasn't Wheat...](https://github.com/Contraband-Software/LudumDare52)
 - Ludum Dare 51: [Motel 88](https://github.com/Contraband-Software/LudumDare51)
 - Ludum Dare 50: [Mortal Compass](https://github.com/Contraband-Software/LudumDare50)
-- [Despicablest of Pirates](https://contraband.software/pirate-face-off/game)
+- ShefJam 10 : [Despicablest of Pirates](https://contraband.software/pirate-face-off/game)
 
 ## Live Projects
 
