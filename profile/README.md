@@ -22,6 +22,7 @@ A team of three games programmers working in Unity and beyond.
 
 ### Unity Packages
 
+- [ContraStateMachines](https://github.com/Contraband-Software/ContraStateMachines)
 - [ContraInventory](https://github.com/Contraband-Software/ContraInventory)
 - [ContraDialogue](https://github.com/Contraband-Software/ContraDialogue)
 - [ContraPlatformIntegrations](https://github.com/Contraband-Software/ContraPlatformIntegrations)
