@@ -1,6 +1,6 @@
 # We are Contraband Software
 
-A team of three games programmers working in Unity and beyond.
+A team of games programmers working in Unity and beyond.
 
 ## Our Games
 
